@@ -3,8 +3,7 @@
 Machine Learning has become popular and is now a crucial tool for research as well as the IT Industry. It's a groundbreaking area that lets us make smarter decisions and automate tasks. In simple language, Machine Learning or ML is about teaching computers how to learn on their own without us having to tell them everything explicitly. Nowadays, machine Learning is being used almost everywhere.
 
 This machine learning project article has over 100 new ML projects and ideas. Whether you're a college student or an industry professional, these projects are helpful. They're designed for learners beginning their journey into Machine Learning and Data Science.
-
-
+I was here ;
 
 ## Machine Learning Projects for Beginners
 
